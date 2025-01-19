@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root"; // Sesuaikan dengan username database Anda
 $password = ""; // Sesuaikan dengan password database Anda
-$dbname = "remidi_smpn1kalimanah";
+$dbname = "smpn1kalimanah";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
